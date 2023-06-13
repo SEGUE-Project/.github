@@ -12,5 +12,5 @@ The results obtained with this project should open new perspectives to study oth
 
 Find out more:
 
-- http://erc-segue.nl
+- [erc-segue.nl](https://www.erc-segue.nl/)
 - [@ERC_SEGUE](https://twitter.com/ERC_SEGUE)
