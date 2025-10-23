@@ -17,5 +17,6 @@ Find out more:
 
 Publications:
 
-- San Millán, J., Cottineau-Mugadza, C., & Van Ham, M. (2025). From flux to capital: Distinguishing patterns of income and wealth segregation in the netherlands. Population, Space and Place, 31(8), e70127. https://doi.org/https://doi.org/10.1002/psp.70127
 - San Millán, J., Cottineau‐Mugadza, C., & Van Ham, M. (2025). The Economic Urban Divide: A Detailed Study of Income Inequality and Segregation in Dutch Urban Areas (2011–2022). Tijdschrift Voor Economische En Sociale Geografie, 116(4), 508–530. https://doi.org/10.1111/tesg.70011
+- San Millán, J., Cottineau-Mugadza, C., & Van Ham, M. (2025). From flux to capital: Distinguishing patterns of income and wealth segregation in the netherlands. Population, Space and Place, 31(8), e70127. https://doi.org/https://doi.org/10.1002/psp.70127
+
