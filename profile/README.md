@@ -17,6 +17,10 @@ Find out more:
 
 Publications:
 
+- Achter, S., Borit, M., Cottineau, C., Meyer, M., Polhill, J. G., & Radchuk, V. (2024). How to conduct more systematic reviews of agent-based models and foster theory development-taking stock and looking ahead. Environmental Modelling & Software, 173, 105867. https://doi.org/10.1016/j.envsoft.2023.105867
+- Askenazy, P., & Cottineau, C. (2025). The geography of collective bargaining in french multi-establishment companies. Industrial Relations: A Journal of Economy and Society, 64(1), 125–144. https://doi.org/10.1111/irel.12360
+- Cottineau-Mugadza, C. (2024). Economic inequality and economic segregation: A systematic review of causal pathways. SocArXiv Preprints. https://doi.org/10.31235/osf.io/qxket
+- Cottineau-Mugadza, C., Forgaci, C., Janssen, K. M. J., Li, B., Zhang, S., & Zhang, X. (2024). Guidelines and open-source toolbox for systematic literature reviews in the field of urbanism. SocArXiv Preprints. https://doi.org/10.31235/osf.io/w5b8v
 - San Millán, J., Cottineau‐Mugadza, C., & Van Ham, M. (2025). The Economic Urban Divide: A Detailed Study of Income Inequality and Segregation in Dutch Urban Areas (2011–2022). Tijdschrift Voor Economische En Sociale Geografie, 116(4), 508–530. https://doi.org/10.1111/tesg.70011
 - San Millán, J., Cottineau-Mugadza, C., & Van Ham, M. (2025). From flux to capital: Distinguishing patterns of income and wealth segregation in the netherlands. Population, Space and Place, 31(8), e70127. https://doi.org/https://doi.org/10.1002/psp.70127
-
+- Roxburgh, N., Paolillo, R., Filatova, T., Cottineau, C., Paolucci, M., & Polhill, G. (2025). Outlining some requirements for synthetic populations to initialise agent-based models. Review of Artificial Societies and Social Simulation, 2025(1). https://rofasss.org/2025/01/29/popsynth
