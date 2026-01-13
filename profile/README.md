@@ -13,7 +13,7 @@ The results obtained with this project should open new perspectives to study oth
 Find out more:
 
 - [erc-segue.nl](https://www.erc-segue.nl/)
-- [@ERC_SEGUE]([https://twitter.com/ERC_SEGUE](https://bsky.app/profile/erc-segue.bsky.social))
+- [@ERC_SEGUE](https://bsky.app/profile/erc-segue.bsky.social)
 
 Publications:
 
