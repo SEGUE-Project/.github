@@ -9,14 +9,13 @@ In SEGUE [we](https://erc-segue.nl/team) address the gap between these two bodie
 The results obtained with this project should open new perspectives to study other forms of inequality (gender, race, class) and facilitate the study of economic segregation in other national contexts (e.g. countries with less granular data).
 
 
-
-Find out more:
+### Find out more:
 
 - about the project: [erc-segue.nl](https://www.erc-segue.nl/)
 - about our news: [@ERC_SEGUE](https://bsky.app/profile/erc-segue.bsky.social)
 - about our upcoming [workshop "Updating urban segregation computation with R"](https://www.erc-segue.nl/Workshop)
 
-Publications:
+### Publications:
 
 - Achter, S., Borit, M., Cottineau, C., Meyer, M., Polhill, J. G., & Radchuk, V. (2024). How to conduct more systematic reviews of agent-based models and foster theory development-taking stock and looking ahead. Environmental Modelling & Software, 173, 105867. https://doi.org/10.1016/j.envsoft.2023.105867
 - Askenazy, P., & Cottineau, C. (2025). The geography of collective bargaining in french multi-establishment companies. Industrial Relations: A Journal of Economy and Society, 64(1), 125–144. https://doi.org/10.1111/irel.12360
