@@ -12,8 +12,9 @@ The results obtained with this project should open new perspectives to study oth
 
 Find out more:
 
-- [erc-segue.nl](https://www.erc-segue.nl/)
-- [@ERC_SEGUE](https://bsky.app/profile/erc-segue.bsky.social)
+- about the project: [erc-segue.nl](https://www.erc-segue.nl/)
+- about our news: [@ERC_SEGUE](https://bsky.app/profile/erc-segue.bsky.social)
+- about our upcoming [workshop "Updating urban segregation computation with R"](https://www.erc-segue.nl/Workshop)
 
 Publications:
 
